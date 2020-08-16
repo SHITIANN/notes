@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ..\..\github_images
----
-
 BIO模型
 
 
@@ -23,4 +19,4 @@ yhhhh
 
 
 
-![](../../github_images/kim-nam-680952-unsplash.jpg)
+![](../../图片/kim-nam-680952-unsplash.jpg)
