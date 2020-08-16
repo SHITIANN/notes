@@ -19,4 +19,4 @@ yhhhh
 
 
 
-![](../../图片/kim-nam-680952-unsplash.jpg)
+![](BIO.assets/TIM图片20200108200736.jpg)
